@@ -1,7 +1,7 @@
 const int LED = 13; //D13に接続されている内蔵LEDを使用
 
 void setup(){
-  pinMode(LED, OUTPUT使用 //出力に設定
+  pinMode(LED, OUTPUT); //出力に設定
 }
 
 void loop(){
